@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/udii/job_embedding/master/vec.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/udii/job_embedding/master/voc.tsv"
     }
   ]
 }
