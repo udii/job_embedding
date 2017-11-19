@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/udii/job_embedding/master/version2/vec.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/udii/job_embedding/master/version2/voc.tsv"
+    }
+  ]
+}
